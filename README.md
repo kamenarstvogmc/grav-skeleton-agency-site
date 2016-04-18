@@ -1,4 +1,4 @@
-# Agency Skeleton for Grav
+# Kamenárstvo GMC company website based on Grav
 
 ![Agency](assets/readme_1.png)
 
